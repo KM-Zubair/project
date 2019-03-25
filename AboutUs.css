@@ -1,0 +1,32 @@
+.about-img {
+    float: left;
+    margin-right: 20px;
+    background: #444  center;
+    background-image: url(f1.JPG);
+    background-size: cover;
+    height: 600px;
+    width: 564px;
+  	margin-left: 10px;
+}
+.about h1 {
+    margin: 0px;
+    font-weight: 400;
+    font-size: 40px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    right: 0;
+    position: absolute;
+    right:400px;
+    top:10%;
+}
+.about p{
+  margin: 0;
+  font-weight: 200;
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  right:20%;
+  top:30%;
+  font-family: "Source Sans Pro","Open Sans","Helvetica Neue","Helvetica,Arial,sans-serif" ;
+  line-height : 1.5;
+}
